@@ -1,0 +1,15 @@
+{
+  "name": "boil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=8050",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marko bajkovic",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
